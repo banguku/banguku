@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm banguku! 👋
 
-<!--
-**banguku/banguku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer who loves building things with **JavaScript**, **TypeScript**, and **Python**. My favorite project so far is a Discord bot—because who doesn't love automating a little chaos?
 
-Here are some ideas to get you started:
+## 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Build (occasionally useless) side projects for fun
+- Tinker with bots, scripts, and anything that can be automated
+- Explore new tech stacks just for the thrill of it
+
+## 🎮 Hobbies
+
+- Watching anime and keeping up with new releases
+- Making random, mostly unnecessary coding projects
+- Enjoying the process of learning and breaking things
+
+## 🌱 Currently Experimenting With
+
+- New ways to make my Discord bot even more unpredictable
+- Integrating anime APIs into my silly side projects
+
+Thanks for stopping by! If you want to chat about anime, bots, or weird project ideas, feel free to reach out or check out my repos.
+
+---
+*“Code, watch, repeat.”*
